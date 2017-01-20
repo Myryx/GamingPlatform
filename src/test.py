@@ -13,17 +13,9 @@ from Games.queuer import queuer
 from Games.gaming_room import Room
 from System import System
 from Finance import Finance
-from Timer import ClockTimer
 from PlatformConfiguration import Configuration
 
-from flask import Flask, request
-app = Flask(__name__)
 
-
-@app.route('/', methods=['POST'])
-def result():
-    print(request) # should display 'bar'
-    # return 'Received !' # response to your request.
 
 
 mutex = Lock()
