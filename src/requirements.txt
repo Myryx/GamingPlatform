@@ -4,3 +4,4 @@ requests==2.7.0
 jsonpickle==0.9.3
 botlab==0.2.3
 block_io==1.1.6
+coinbase==2.0.6
