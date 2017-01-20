@@ -1,6 +1,6 @@
 import botlab
 import config
-from coinbase.wallet.client import Client
+# from coinbase.wallet.client import Client
 # from user import User
 bot = botlab.BotLab(config.SETTINGS)
 
@@ -12,9 +12,9 @@ secret = '9FiWjs1S5lUerj3tD0HRPNYHuPc7e8ln'
 platform_account_id = "5a42246a-5eb3-5822-a36c-0083099f1a51"
 customers_account_id = "4def6901-7e4d-5d99-8cef-9457df54f98a"
 
-client = Client(key, secret)
-main_account = client.get_account(platform_account_id)
-customers_account = client.get_account(customers_account_id)
+# client = Client(key, secret)
+# main_account = client.get_account(platform_account_id)
+# customers_account = client.get_account(customers_account_id)
 
 class BitcoinWallet:
     def __init__(self, user_id, isThereAccount = False):  # isThereAccount - if it was created on CoinBase, so we shouldn't init it
@@ -32,8 +32,8 @@ class BitcoinWallet:
         return self.account.create_address().address
 
     def unload_money_to_platform_bank(self):
-        primary_account = client.get_primary_account()
-        address = primary_account.create_address().address
+        # primary_account = client.get_primary_account()
+        # address = primary_account.create_address().address
         self.account.send_money(to=address, amount=self.account.balance.amount, currency='BTC', description='')
 
     @staticmethod
@@ -41,9 +41,9 @@ class BitcoinWallet:
         if dict == '':
             return ''
         else:
-            account = client.get_account(dict['id'])
+            # account = client.get_account(dict['id'])
             wallet = BitcoinWallet(None, True)  # we've got our account already, so don't make another one
-            wallet.account = account
+            # wallet.account = account
             wallet.id = dict['id']
             wallet.waits_for_deposit = dict['waits_for_deposit']
             return wallet
