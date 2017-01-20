@@ -1,0 +1,255 @@
+{
+  "hello": {
+    "en": "hello, {name}!",
+    "ru": "привет, {name}!"
+  },
+  "Main_Menu": {
+    "en": "Main menu",
+    "ru": "Главное меню"
+  },
+  "Play": {
+    "en": "Play",
+    "ru": "Играть"
+  },
+  "Wallet": {
+    "en": "Wallet",
+    "ru": "Кошелек"
+  },
+  "CoinsDeal": {
+    "en": "coins - Deal!",
+    "ru": "монет - Сделка"
+  },
+  "Back": {
+    "en": "Back",
+    "ru": "Назад"
+  },
+  "BlackJack": {
+    "en": "Blackjack",
+    "ru": "Блэкджек"
+  },
+  "Dice": {
+    "en": "Dice",
+    "ru": "Кости"
+  },
+  "ChooseYourGame": {
+    "en": "Choose Your Game!",
+    "ru": "Выберите игру!"
+  },
+  "YourBalance": {
+    "en": "Your Balance: ",
+    "ru": "Ваш баланс: "
+  },
+  "YourBet": {
+    "en": "What is your bet? ",
+    "ru": "Какова ваша ставка? "
+  },
+  "NoMoney": {
+    "en": "You have no money left ",
+    "ru": "У вас не осталось денег "
+  },
+  "Stand": {
+    "en": "Stand ",
+    "ru": "Хватит "
+  },
+  "Hit": {
+    "en": "Hit ",
+    "ru": "Ещё "
+  },
+  "DealerBJ": {
+    "en": "*Dealer has a blackjack!* ",
+    "ru": "*У дилера блэкджек!* "
+  },
+  "PlayerBJ": {
+    "en": "*Player has a blackjack!* ",
+    "ru": "*У игрока блэкджек!* "
+  },
+  "DealerBusted": {
+    "en": "*Dealer busted!* ",
+    "ru": "*Дилер перебрал!* "
+  },
+  "PlayerBusted": {
+    "en": "*Player busted!* ",
+    "ru": "*Игрок перебрал* "
+  },
+  "DealerWins": {
+    "en": "*Dealer wins!* ",
+    "ru": "*Дилер выигрывает!* "
+  },
+  "PlayerWins": {
+    "en": "*Player wins!* ",
+    "ru": "*Игрок выигрывает* "
+  },
+  "Tie": {
+    "en": "*Tie!* ",
+    "ru": "*Ничья* "
+  },
+  "DealerHas": {
+    "en": " Dealer has ",
+    "ru": " У дилера "
+  },
+  "YouHave": {
+    "en": " You have ",
+    "ru": " У вас "
+  },
+  "PlayForFree": {
+    "en": " Continue for free ",
+    "ru": " Продолжить бесплатно "
+  },
+  "FillWallet": {
+    "en": " Fill the wallet ",
+    "ru": " Пополнить кошелек "
+  },
+  "ShareWithFriend": {
+    "en": "Share with friend",
+    "ru": "Пригласить друга"
+  },
+  "Games": {
+    "en": "Games",
+    "ru": "Игры"
+  },
+  "Money": {
+    "en": "Money",
+    "ru": "Деньги"
+  },
+  "Social": {
+    "en": "Social",
+    "ru": "Общество"
+  },
+  "Preferences": {
+    "en": "Prefs",
+    "ru": "Настройки"
+  },
+  "BackToMain": {
+    "en": "Back to main menu",
+    "ru": "Назад в главное меню"
+  },
+  "Buy": {
+    "en": "Buy",
+    "ru": "Купить"
+  },
+  "Sell": {
+    "en": "Sell",
+    "ru": "Продать"
+  },
+  "Instruction": {
+    "en": "Instruction",
+    "ru": "Инструкция"
+  },
+  "Vote": {
+    "en": "Vote",
+    "ru": "Голосовать"
+  },
+  "Feedback": {
+    "en": "Feedback",
+    "ru": "Отзыв"
+  },
+  "Invite": {
+    "en": "Invite a friend and get 2000 coins",
+    "ru": "Пригласить друга и получить 2000 монет"
+  },
+  "Referral_Description": {
+    "en": "*Join us in our gaming community and get additional 2000 of coins on your account!*",
+    "ru": "*Присоединяйтесь к нашему игровому сообществу и получите дополнительно 2000 монет на ваш счет!*"
+  },
+  "Convert_Your": {
+    "en": "Convert your coins to bitcoins and withdraw them to your private accounts.",
+    "ru": "Конвертируйте ваши монеты в биткоины и выводите на личные счета"
+  },
+  "Play_With_Other": {
+    "en": "Play with other people and win up to x5 of your bets.",
+    "ru": "Играйте с другими людьми и выигрывайте до x5 ваших ставок."
+  },
+  "Personal_Approach": {
+    "en": "You'll get a personal approach in order to your game preferences.",
+    "ru": "Вы получите персональный подход исходя из ваших игровых предпочтений."
+  },
+  "Follow_link": {
+    "en": "Follow this link",
+    "ru": "Кликните на эту ссылку"
+  },
+  "Referral_Title": {
+    "en": "Invite your friend and you both will get 2000 of coins on your accounts!",
+    "ru": "Пригласите вашего друга и вы оба получите дополнительно 2000 монет на ваши счета!"
+  },
+  "Change_lang": {
+    "en": "Languages",
+    "ru": "Языки"
+  },
+  "Get_Link": {
+    "en": "Get a referral link to this bot",
+    "ru": "Получить пригласительную ссылку на бота"
+  },
+  "Community_Can_Find_Us": {
+    "en": "People can find us by clicking this link:",
+    "ru": "Люди найдут нас кликнув на эту ссылку:"
+  },
+  "Click_this_link": {
+    "en": "To start, click this link: ",
+    "ru": "Чтобы начать, нажмите на ссылку: "
+  },
+  "Or_button": {
+    "en": "Or this button:\n",
+    "ru": "Или эту кнопку:\n"
+  },
+  "Roll_The_Dice": {
+    "en": "Roll the dice\n",
+    "ru": "Бросить кости\n"
+  },
+  "Exit": {
+    "en": "Exit game\n",
+    "ru": "Выйти из игры\n"
+  },
+  "Player": {
+    "en": "Player",
+    "ru": "Игрок"
+  },
+  "You": {
+    "en": "You",
+    "ru": "Вы"
+  },
+  "And": {
+    "en": "and",
+    "ru": "и"
+  },
+  "WinSingular": {
+    "en": "Wins",
+    "ru": "Выигрывает"
+  },
+  "WinPlural": {
+    "en": "Win",
+    "ru": "Выигрывают"
+  },
+  "Play_Again": {
+    "en": "Play again",
+    "ru": "Сыграть ещё раз"
+  },
+  "Stake": {
+    "en": "Stake",
+    "ru": "На кону"
+  },
+  "MakeYourBitcoinDeposit": {
+    "en": "Please, make your bitcoin deposit to this address:",
+    "ru": "Пожалуйста, осуществите ваш биткоин перевод по этому адресу:"
+  },
+  "WithinTimePeriodFromNow": {
+    "en": "within an hour from now",
+    "ru": "в течение часа"
+  },
+  "TimeLeft": {
+    "en": "Time for deposit left:",
+    "ru": "Времени для пополнения осталось:"
+  },
+  "GameWasTerminated": {
+    "en": "Last game was terminated. You lost your bet, sorry about that.",
+    "ru": "Игра была прервана. Вы потеряли вашу ставку, сожалеем об этом."
+  },
+  "DepositBonus": {
+    "en": "Your deposit bonus",
+    "ru": "Ваш бонус на пополнение"
+  },
+  "InviteID": {
+    "en": "Referral ID: ",
+    "ru": "Номер приглашения: "
+  }
+
+}

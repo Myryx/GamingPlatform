@@ -1,0 +1,1 @@
+{"sessions": [{"chat_id": 123968706, "lang": "en", "state": "StartLanguages"}], "users": [{"wallet": {"bitcoinWalletNumber": "", "transactions": [], "money": 1000}, "id": 123968706, "stats": {"loss": 0, "win_chance": 47, "wins": 0, "loyalty": 50, "draws": 0}, "information": {"referral_used": 0}}]}
