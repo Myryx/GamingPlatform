@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from Games.wallet import Wallet
 from Games.stats import Stats
 from information import Information

@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from block_io import BlockIo
 block_io = BlockIo('c43e-6b4e-6842-dbf1', '9291027649kotik', 2)
 bit_address = '31sDkFNrXs5E2yNuZxB2URS3JT5pZXxR2N'

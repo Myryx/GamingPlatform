@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 class Information:  # class to keep all the info about the user
     def __init__(self, referral_used=-1):  # 0 - came by himself(or found the link to bot); 1 - public referral; 2 - personal referral
         self.referral_used = referral_used

@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 downgrade_coefficient = 10
 
 class referral_link():

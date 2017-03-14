@@ -1,4 +1,4 @@
-
+# -*- coding: utf-8 -*-
 SETTINGS = {
     'config': {
         'sync_strategy': 'hot',  # 'hot' or 'cold'

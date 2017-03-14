@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 class System:  # class to keep all the info about the user
     def __init__(self, win_chance):
         self.bots_amount = 0  # bots that are online and playing

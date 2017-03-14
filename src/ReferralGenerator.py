@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import random
 from Referral_Link import referral_link as link
 

@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 start_money = 2000
 
 # import Ma
