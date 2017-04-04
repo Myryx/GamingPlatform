@@ -8,7 +8,6 @@ from Games.card_games.blackJack import BlackJack
 from Games.card_games.dice import Dice
 from user import User
 from menuMaker import menu_maker
-from block_io import BlockIo
 from threading import Lock
 from Games.queuer import queuer
 from Games.gaming_room import Room
@@ -20,7 +19,6 @@ from PlatformConfiguration import Configuration
 
 
 mutex = Lock()
-block_io = BlockIo('c43e-6b4e-6842-dbf1', '9291027649kotik', 2)
 
 bot = botlab.BotLab(config.SETTINGS)
 referral_extra_size = 3
